@@ -17,6 +17,15 @@ pip install tk
 ```
 pip install pyperclip
 ```
+```
+git clone https://github.com/MrBrok824/python-RPG-1.3.git
+```
+```
+cd python-RPG-1.3
+```
+```
+python3 python-RPG-1.3
+```
 
 Make sure you have Python installed on your system.
 
@@ -42,4 +51,4 @@ Linux Mate 22.04.4
 
 While it has been verified to function on these systems, it may also work on other versions of Windows and Linux distributions. 
 
-# License GPL3.
+# License GPL3
