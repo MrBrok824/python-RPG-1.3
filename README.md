@@ -47,6 +47,7 @@ Use strong, unique passwords for each application.
 This Random Password Generator has been tested and confirmed to work on the following operating systems:
 
 Windows 10
+
 Linux Mate 22.04.4
 
 While it has been verified to function on these systems, it may also work on other versions of Windows and Linux distributions. 
