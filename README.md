@@ -53,3 +53,5 @@ Linux Ubuntu Mate 22.04.4
 While it has been verified to function on these systems, it may also work on other versions of Windows and Linux distributions. 
 
 # License GPL3
+
+[![Python Sticker](https://files.paluba.info/brok/slike/2024-04-20_220913.jpg)](https://www.python.org)
