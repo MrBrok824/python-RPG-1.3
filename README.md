@@ -54,4 +54,4 @@ While it has been verified to function on these systems, it may also work on oth
 
 # License GPL3
 
-[![Python Sticker](https://files.paluba.info/brok/slike/2024-04-20_220913.jpg)](https://www.python.org)
+[![Python is Best!](https://files.paluba.info/brok/slike/2024-04-20_220913.jpg)](https://www.python.org)
