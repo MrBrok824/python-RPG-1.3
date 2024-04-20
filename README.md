@@ -54,4 +54,4 @@ While it has been verified to function on these systems, it may also work on oth
 
 # License GPL3
 
-[![Python is Best!](https://files.paluba.info/brok/slike/2024-04-20_220913.jpg)](https://github.com/search?q=Python&type=repositories)
+[![Python is Best!](https://files.paluba.info/brok/slike/2024-04-20_220913.jpg)](https://github.com/search?q=Python+GUI&type=repositories)
